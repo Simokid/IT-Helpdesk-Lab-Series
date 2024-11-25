@@ -39,7 +39,7 @@ Each lab are steps focuses on specific objectives, tools, and workflows to simul
 11. [PDQ Inventory: Hardware and Software Reporting](https://github.com/Simokid/PDQ-Inventory-Hardware-and-Software-Reporting/tree/main)
 12. [Printer Setup on Server 2022, NTFS Permissions](https://github.com/Simokid/Printer-Setup-on-Server-2022-NTFS-Permissions/tree/main)
 13. [Understanding Tickets Using Spiceworks](https://github.com/Simokid/Understanding-Tickets-Using-Spiceworks/blob/main/README.md)
-14. [Delegate Control and Account Lockout Management](https://www.notion.so/Lab14)
+14. [Delegate Control and Account Lockout Management](https://github.com/Simokid/Delegate-Control-and-Account-Lockout-Management/blob/main/README.md)
 
 ---
 
