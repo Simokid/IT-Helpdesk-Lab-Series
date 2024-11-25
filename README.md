@@ -71,6 +71,4 @@ Click on the links above to explore individual labs, or navigate through the rep
 
 ---
 
-## References
 
-This entire Home Lab series is influenced by the YouTube playlist  [Helpdesk Labs](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht) [by Kevtech IT Support](https://youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht), which provided the foundation for setting up and configuring Windows Server 2022, Windows 10 and Active Directory tasks. I highly recommend this playlist for anyone looking to build hands-on experience in Active Directory environments.
