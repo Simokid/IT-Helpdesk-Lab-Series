@@ -27,7 +27,7 @@ This Lab series is designed to:
 Each lab are steps focuses on specific objectives, tools, and workflows to simulate real-world IT scenarios. Below is the list of labs in the series:
 
 1. [Installing VirtualBox and Server 2022](https://github.com/Simokid/Installing-VirtualBox-and-Server-2022) 
-2. [**Renaming Server 2022 and Installing Active Directory**](https://www.notion.so/Lab2)
+2. [Renaming Server 2022 and Installing Active Directory](https://github.com/Simokid/Renaming-Server-2022-and-Installing-Active-Directory/tree/main)
 3. [**Active Directory Account Creation, CMD Commands**](https://www.notion.so/Lab3)
 4. [**Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager**](https://www.notion.so/Lab4)
 5. [**Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports**](https://www.notion.so/Lab5)
