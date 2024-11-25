@@ -37,7 +37,7 @@ Each lab are steps focuses on specific objectives, tools, and workflows to simul
 9. [RSOP, Group Policy, Task Manager, Disable Logoff](https://github.com/Simokid/RSOP-Group-Policy-Task-Manager-Disable-Logoff/blob/main/README.md)
 10. [Installing and Deploying Software with PDQ](https://github.com/Simokid/Installing-and-Deploying-Software-with-PDQ/tree/main)
 11. [PDQ Inventory: Hardware and Software Reporting](https://github.com/Simokid/PDQ-Inventory-Hardware-and-Software-Reporting/tree/main)
-12. [Printer Setup on Server 2022, NTFS Permissions](https://www.notion.so/Lab12)
+12. [Printer Setup on Server 2022, NTFS Permissions](https://github.com/Simokid/Printer-Setup-on-Server-2022-NTFS-Permissions/tree/main)
 13. [Understanding Tickets Using Spiceworks](https://www.notion.so/Lab13)
 14. [Delegate Control and Account Lockout Management](https://www.notion.so/Lab14)
 
