@@ -31,7 +31,7 @@ Each lab are steps focuses on specific objectives, tools, and workflows to simul
 3. [Active Directory Account Creation, CMD Commands](https://github.com/Simokid/Active-Directory-Account-Creation-CMD-Commands)
 4. [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](https://github.com/Simokid/Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager/tree/main)
 5. [Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports](https://github.com/Simokid/Join-Windows-10-to-Domain-Local-User-Group-Policy-RSOP-Reports/tree/main)
-6. [Common Active Directory Issues, CMD Commands, PC Offline](https://www.notion.so/Lab6)
+6. [Common Active Directory Issues, CMD Commands, PC Offline](https://github.com/Simokid/Common-Active-Directory-Issues-CMD-Commands-PC-Offline)
 7. [Security Groups, Mapped Drives, Personal Drives](https://www.notion.so/Lab7)
 8. [Windows 10 Remote Access: Remote Desktop, Remote Registry](https://www.notion.so/Lab8)
 9. [RSOP, Group Policy, Task Manager, Disable Logoff](https://www.notion.so/Lab9)
