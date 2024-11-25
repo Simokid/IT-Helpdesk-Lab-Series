@@ -35,7 +35,7 @@ Each lab are steps focuses on specific objectives, tools, and workflows to simul
 7. [Security Groups, Mapped Drives, Personal Drives](https://github.com/Simokid/Security-Groups-Mapped-Drives-Personal-Drives)
 8. [Windows 10 Remote Access: Remote Desktop, Remote Registry](https://github.com/Simokid/Windows-10-Remote-Access-RemotDesktop-Remote-Registry/blob/main/README.md)
 9. [RSOP, Group Policy, Task Manager, Disable Logoff](https://github.com/Simokid/RSOP-Group-Policy-Task-Manager-Disable-Logoff/blob/main/README.md)
-10. [Installing and Deploying Software with PDQ](https://www.notion.so/Lab10)
+10. [Installing and Deploying Software with PDQ](https://github.com/Simokid/Installing-and-Deploying-Software-with-PDQ/tree/main)
 11. [PDQ Inventory: Hardware and Software Reporting](https://www.notion.so/Lab11)
 12. [Printer Setup on Server 2022, NTFS Permissions](https://www.notion.so/Lab12)
 13. [Understanding Tickets Using Spiceworks](https://www.notion.so/Lab13)
